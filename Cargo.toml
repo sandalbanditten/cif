@@ -12,4 +12,4 @@ A character builder for the Cosmere TTRPG.
 
 
 [dependencies]
-inced = "0.14"
+iced = "0.14"
