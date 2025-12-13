@@ -1,6 +1,6 @@
 # cif
 
-A character builder like Pathbuilder2e, but for the Cosmere TTRPG.
+A character builder, like Pathbuilder2e, but for the Cosmere TTRPG.
 
 ## Name
 Connection
