@@ -12,6 +12,8 @@ Fortune
 ## Todo
 Literally everything
 
+- Use async? Tokio is cool
+
 ## License
 
 Licensed under the MIT license.
