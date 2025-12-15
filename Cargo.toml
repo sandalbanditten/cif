@@ -13,6 +13,7 @@ A character builder for the Cosmere TTRPG.
 
 [dependencies]
 iced = "0.14"
+rfd = "0.16"
 serde = "1.0"
 tracing = "0.1"
 tracing-subscriber = "0.3"
